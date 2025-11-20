@@ -24,5 +24,4 @@ Quick start
    idf.py set-target esp32
    idf.py build
    idf.py -p /dev/ttyUSB0 flash monitor
-Initial commit: project skeleton -- 2025-11-14T13:30:01
-Initial commit: project skeleton -- 2025-11-14T13:30:01
+
